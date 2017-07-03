@@ -1,10 +1,21 @@
 .titre_principal {
 	font-weight: bold;
 	font-size: 30px;
+	font-family: Architects Daughter;
+	border : 5px;
 }
+
+.premiere_photo {
+position: absolute;
+top:10px;
+right: 10px;
+}
+
 main{
 background-color:#808080;
 }
-.date{
-	font: 12px italic red;
+
+.date {
+	font : 12px italic ;
+	color : red;
 }
