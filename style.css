@@ -16,6 +16,12 @@ background-color:#808080;
 }
 
 .date {
-	font : 12px italic ;
+	font-size : 12px ;
+	font-style:italic ;
 	color : red;
+}
+.photo_central{
+	position: absolute;
+	top: 200px;
+	right:50px; 
 }
